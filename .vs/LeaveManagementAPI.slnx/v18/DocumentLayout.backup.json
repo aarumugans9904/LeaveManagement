@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rsa99\\source\\repos\\LeaveManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD8110D-95E9-4077-A544-EFB390B1E8FB}|LeaveManagementAPI.csproj|c:\\users\\rsa99\\source\\repos\\leavemanagementapi\\controllers\\leavescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD8110D-95E9-4077-A544-EFB390B1E8FB}|LeaveManagementAPI.csproj|solutionrelative:controllers\\leavescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD8110D-95E9-4077-A544-EFB390B1E8FB}|LeaveManagementAPI.csproj|c:\\users\\rsa99\\source\\repos\\leavemanagementapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD8110D-95E9-4077-A544-EFB390B1E8FB}|LeaveManagementAPI.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD8110D-95E9-4077-A544-EFB390B1E8FB}|LeaveManagementAPI.csproj|c:\\users\\rsa99\\source\\repos\\leavemanagementapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD8110D-95E9-4077-A544-EFB390B1E8FB}|LeaveManagementAPI.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD8110D-95E9-4077-A544-EFB390B1E8FB}|LeaveManagementAPI.csproj|c:\\users\\rsa99\\source\\repos\\leavemanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CD8110D-95E9-4077-A544-EFB390B1E8FB}|LeaveManagementAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD8110D-95E9-4077-A544-EFB390B1E8FB}|LeaveManagementAPI.csproj|c:\\users\\rsa99\\source\\repos\\leavemanagementapi\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD8110D-95E9-4077-A544-EFB390B1E8FB}|LeaveManagementAPI.csproj|solutionrelative:models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD8110D-95E9-4077-A544-EFB390B1E8FB}|LeaveManagementAPI.csproj|c:\\users\\rsa99\\source\\repos\\leavemanagementapi\\dataaccess\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD8110D-95E9-4077-A544-EFB390B1E8FB}|LeaveManagementAPI.csproj|solutionrelative:dataaccess\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD8110D-95E9-4077-A544-EFB390B1E8FB}|LeaveManagementAPI.csproj|c:\\users\\rsa99\\source\\repos\\leavemanagementapi\\sqlscript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{4CD8110D-95E9-4077-A544-EFB390B1E8FB}|LeaveManagementAPI.csproj|solutionrelative:sqlscript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD8110D-95E9-4077-A544-EFB390B1E8FB}|LeaveManagementAPI.csproj|c:\\users\\rsa99\\source\\repos\\leavemanagementapi\\dataaccess\\leaverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD8110D-95E9-4077-A544-EFB390B1E8FB}|LeaveManagementAPI.csproj|solutionrelative:dataaccess\\leaverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD8110D-95E9-4077-A544-EFB390B1E8FB}|LeaveManagementAPI.csproj|c:\\users\\rsa99\\source\\repos\\leavemanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD8110D-95E9-4077-A544-EFB390B1E8FB}|LeaveManagementAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD8110D-95E9-4077-A544-EFB390B1E8FB}|LeaveManagementAPI.csproj|c:\\users\\rsa99\\source\\repos\\leavemanagementapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD8110D-95E9-4077-A544-EFB390B1E8FB}|LeaveManagementAPI.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD8110D-95E9-4077-A544-EFB390B1E8FB}|LeaveManagementAPI.csproj|c:\\users\\rsa99\\source\\repos\\leavemanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CD8110D-95E9-4077-A544-EFB390B1E8FB}|LeaveManagementAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD8110D-95E9-4077-A544-EFB390B1E8FB}|LeaveManagementAPI.csproj|c:\\users\\rsa99\\source\\repos\\leavemanagementapi\\dataaccess\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD8110D-95E9-4077-A544-EFB390B1E8FB}|LeaveManagementAPI.csproj|solutionrelative:dataaccess\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD8110D-95E9-4077-A544-EFB390B1E8FB}|LeaveManagementAPI.csproj|c:\\users\\rsa99\\source\\repos\\leavemanagementapi\\sqlscript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{4CD8110D-95E9-4077-A544-EFB390B1E8FB}|LeaveManagementAPI.csproj|solutionrelative:sqlscript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rsa99\\source\\repos\\LeaveManagementAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\rsa99\\source\\repos\\LeaveManagementAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-23T08:25:02.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SQLScript.sql ",
+              "DocumentMoniker": "C:\\Users\\rsa99\\source\\repos\\LeaveManagementAPI\\SQLScript.sql",
+              "RelativeDocumentMoniker": "SQLScript.sql",
+              "ToolTip": "C:\\Users\\rsa99\\source\\repos\\LeaveManagementAPI\\SQLScript.sql",
+              "RelativeToolTip": "SQLScript.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-23T08:21:55.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\rsa99\\source\\repos\\LeaveManagementAPI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\rsa99\\source\\repos\\LeaveManagementAPI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T08:19:18.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rsa99\\source\\repos\\LeaveManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rsa99\\source\\repos\\LeaveManagementAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T08:17:05.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeaveRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rsa99\\source\\repos\\LeaveManagementAPI\\DataAccess\\LeaveRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\LeaveRepository.cs",
+              "ToolTip": "C:\\Users\\rsa99\\source\\repos\\LeaveManagementAPI\\DataAccess\\LeaveRepository.cs",
+              "RelativeToolTip": "DataAccess\\LeaveRepository.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAwwN0AAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T08:13:12.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "C:\\Users\\rsa99\\source\\repos\\LeaveManagementAPI\\DataAccess\\DbHelper.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DbHelper.cs",
+              "ToolTip": "C:\\Users\\rsa99\\source\\repos\\LeaveManagementAPI\\DataAccess\\DbHelper.cs",
+              "RelativeToolTip": "DataAccess\\DbHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T08:10:50.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rsa99\\source\\repos\\LeaveManagementAPI\\DataAccess\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\rsa99\\source\\repos\\LeaveManagementAPI\\DataAccess\\EmployeeRepository.cs",
+              "RelativeToolTip": "DataAccess\\EmployeeRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T08:09:57.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rsa99\\source\\repos\\LeaveManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\rsa99\\source\\repos\\LeaveManagementAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-23T08:07:09.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeavesController.cs",
+              "DocumentMoniker": "C:\\Users\\rsa99\\source\\repos\\LeaveManagementAPI\\Controllers\\LeavesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LeavesController.cs",
+              "ToolTip": "C:\\Users\\rsa99\\source\\repos\\LeaveManagementAPI\\Controllers\\LeavesController.cs",
+              "RelativeToolTip": "Controllers\\LeavesController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T08:00:19.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\rsa99\\source\\repos\\LeaveManagementAPI\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\rsa99\\source\\repos\\LeaveManagementAPI\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T07:59:29.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\rsa99\\source\\repos\\LeaveManagementAPI\\Models\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LeaveRequest.cs",
+              "ToolTip": "C:\\Users\\rsa99\\source\\repos\\LeaveManagementAPI\\Models\\LeaveRequest.cs",
+              "RelativeToolTip": "Models\\LeaveRequest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T07:58:23.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\rsa99\\source\\repos\\LeaveManagementAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\rsa99\\source\\repos\\LeaveManagementAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T07:57:41.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
